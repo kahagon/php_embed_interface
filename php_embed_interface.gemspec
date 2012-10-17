@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["k.ahagon@n-3.so"]
   gem.description   = %q{interface for calling PHP functions}
   gem.summary       = %q{interface for calling PHP functions}
-  gem.homepage      = ""
+  gem.homepage      = %q{https://github.com/oasynnoum/php_embed_interface}
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
