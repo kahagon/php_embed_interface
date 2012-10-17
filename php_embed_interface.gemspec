@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = PHPEI::VERSION
   gem.authors       = ["Keng-ichi Ahagon"]
   gem.email         = ["k.ahagon@n-3.so"]
-  gem.description   = %q{interface for calling PHP functions}
-  gem.summary       = %q{interface for calling PHP functions}
+  gem.description   = %q{interface for Ruby to call PHP functions}
+  gem.summary       = %q{interface for Ruby to call PHP functions}
   gem.homepage      = %q{https://github.com/oasynnoum/php_embed_interface}
 
   gem.files         = `git ls-files`.split($/)
