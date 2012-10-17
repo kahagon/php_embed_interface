@@ -1,7 +1,9 @@
-PHPEI
+php_embed_interface
 =================
 
-Interface for calling PHP functions.
+Interface for Ruby to call PHP functions.
+php_embed_interface is a wrapper for php_embed which is interface for Ruby to call PHP functions.
+php_embed_interface provides more natural calling interface than php_embed.
 
 Installation
 -----------------

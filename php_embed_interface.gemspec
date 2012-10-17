@@ -8,7 +8,9 @@ Gem::Specification.new do |gem|
   gem.version       = PHPEI::VERSION
   gem.authors       = ["Keng-ichi Ahagon"]
   gem.email         = ["k.ahagon@n-3.so"]
-  gem.description   = %q{interface for Ruby to call PHP functions}
+  gem.description   = %q{
+    php_embed_interface is a wrapper for php_embed which is interface for Ruby to call PHP functions.
+    php_embed_interface provides more natural calling interface than php_embed.}
   gem.summary       = %q{interface for Ruby to call PHP functions}
   gem.homepage      = %q{https://github.com/oasynnoum/php_embed_interface}
 
